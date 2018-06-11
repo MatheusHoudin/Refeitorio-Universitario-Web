@@ -1,0 +1,94 @@
+*{
+	padding: 0;
+}
+
+
+body{
+	
+
+}
+
+
+#premenu{
+
+	width: 100%;
+	height: 15%;
+	background-image: url(2.jpg);	
+	padding: -10px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+
+
+#premenu ul{
+
+
+
+}
+
+#premenu ul li{
+
+	display: inline;
+
+
+}
+
+#premenu li ul{
+	display: none;
+}
+
+#premenu li:hover ul{
+	display: block;
+	position: relative;
+}
+
+#premenu li:hover li{
+		float: none;
+		font-size: 12px;
+}
+
+
+#Ru{
+	padding-right:80%;
+	
+
+}
+
+
+#login{
+	position: absolute;
+	width: 360px;
+	height: 180px;
+	text-align: center;
+	margin-top: 17%;
+	margin-left: 35%;
+	border: solid;
+	border-radius: 10px;
+	box-shadow: 10px 10px grey ;
+
+}
+
+#formlogin{
+
+}
+
+input{
+	width: 200px;
+	padding-left: 5px;
+}
+
+#formlogin label input button{
+	font-family: Arial;
+	padding-top: 50px;
+}
+
+#formlogin{
+	margin: 50px;
+}
+
+#formlogin input button{
+	
+}
+

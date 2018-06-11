@@ -1,0 +1,54 @@
+#formulario{
+
+	border-style: solid;
+	border-radius: 20px;
+	width: 40%;
+	border-color: #A9A9A9;
+
+}
+
+#formulario p{
+
+	margin-left: 15px;
+	margin-left: 15px;
+	font-family: Pt sans Narrow;
+	color: #00629C;
+	font-size: 18px;
+}
+
+#formulario h2{
+	text-align: center;
+	color: #00629C;
+	text-decoration: none;
+}
+
+#prin2{
+	margin-left: 90px;
+}
+
+.classe1{
+	margin-left: 21px;
+}
+.classe2{
+	margin-left: 36px;
+}
+
+.classe3{
+	margin-left: 8px;
+}
+
+.classe4{
+	margin-left: 20px;
+}
+
+.classe6{
+	margin-left: 30px;
+}
+.classe7{
+	margin-left: 55px;
+}
+
+.classe8{
+	margin-left: 140px;
+}
+
