@@ -1,0 +1,41 @@
+#MenuCompra{
+
+	border-style: solid;
+	width: 40%;
+	border-radius: 20px;
+	border-color: #A9A9A9;
+
+}
+
+
+#MenuCompra h2{
+	text-align: center;
+	color: #00629C;
+	text-decoration: none;
+
+}
+
+#MenuCompra select{
+	margin-left: 15px;
+}
+
+#MenuCompra p{
+	margin-left: 15px;
+	font-family: Pt sans Narrow;
+	color: #00629C;
+	font-size: 18px;
+}
+
+h6{
+	margin-left: 15px;
+
+}
+
+#MenuCompra tr td {
+	margin-left: 15px;
+	font-family: Pt sans Narrow;
+	color: #00629C;
+	font-size: 18px;
+	border-style: solid;	
+	border-radius: 5px;
+}

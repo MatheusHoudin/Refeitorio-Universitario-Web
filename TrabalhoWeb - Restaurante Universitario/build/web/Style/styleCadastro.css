@@ -1,0 +1,22 @@
+#formulario{
+
+	border-style: solid;
+	width: 40%;
+	border-radius: 20px;
+	border-color: #A9A9A9;
+
+}
+
+#formulario h2 {
+	text-align: center;
+	color: #00629C;
+	text-decoration: none;
+}
+
+
+#formulario p{
+	margin-left: 15px;
+	font-family: Pt sans Narrow;
+	color: #00629C;
+	font-size: 18px;
+}

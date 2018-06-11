@@ -1,0 +1,49 @@
+p{
+	padding: 0px;
+	font-family: Verdana,Pt sans Narrow;
+	font-size: 15px;
+    margin-left: 15px;
+	color: #00629C;
+
+
+}
+
+
+#formulario{
+
+	border-style: solid;
+	border-color: #A9A9A9;
+	width: 40%;
+	border-radius: 20px;
+}
+
+h2{
+	text-align: center;	
+	font-family: Pt sans Narrow;
+	font-size: 26px;
+    color: #00629C;
+	text-decoration: none;
+}
+
+
+
+
+#Cadastro{
+
+
+	margin-top: 20px;
+	margin-right: 27px;
+	margin-left:27px;
+
+}
+
+#nome1{
+
+	margin-left: 26px;
+}
+
+#Email1{
+
+	margin-left: 26px;
+}
+

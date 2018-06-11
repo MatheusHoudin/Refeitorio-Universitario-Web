@@ -1,0 +1,33 @@
+#div1{
+
+	border-style: solid;
+	width: 40%;
+	height: 40%;
+	border-radius: 20px;
+	border-color: #A9A9A9;
+
+}
+
+#div1 h2{
+
+	text-align: center;
+	color: #00629C;
+	text-decoration: none;
+
+}
+
+
+#div1 tr th{
+
+	border-style: solid;
+	border-radius: 5px;
+	color: #00629C;
+}
+
+#div1 tr td{
+
+	border-style: solid;
+	border-radius: 5px;
+	color: #00629C;
+}
+

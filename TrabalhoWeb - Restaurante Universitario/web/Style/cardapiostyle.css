@@ -1,0 +1,123 @@
+
+
+#cardapio{
+
+	height: 237%;
+	width: 40%;
+	background-color: #FFF0E1;
+
+}
+
+#cardapio h3{
+
+	font-family: Pt sans Narrow;
+	font-weight: normal;
+	color: #005f97;
+	font-size: 18px;
+}
+
+
+#desjejum {
+
+	border-bottom-style: solid;
+	border-top-style: solid;
+}
+
+
+#desjejum tr{
+
+ 	
+ 	width: 50px;
+ 
+
+}
+
+#desjejum tr td{
+
+	padding: 20px;
+	padding-left: 150px;
+
+}
+
+#desjejum tr th{
+
+	
+
+
+}
+
+#almoco{
+ 
+ border-bottom-style: solid;
+
+}
+
+
+#almoco tr{
+ 	
+ 	
+ 	width: 50px;
+
+}
+
+#almoco tr td{
+
+	padding: 20px;
+	padding-left: 80px;
+}
+
+#almoco th{
+
+	padding-right: 100%;
+
+
+}
+
+
+
+#jantar{
+
+ border-bottom-style: solid;
+
+}
+
+
+#jantar tr{
+
+   
+ 	width: 50px;
+}
+
+#jantar tr td{
+
+    padding: 20px;
+	padding-left: 80px;
+}
+
+#jantar th{
+
+	padding-right: 100%;
+
+}
+
+
+#fraseInicial{
+
+	color: #005f97;
+	font-family: Pt sans Narrow;
+	font-size: 25px;
+   	text-align: center;
+
+}
+
+#botaoprox{
+
+
+
+}
+
+#botaoant{
+ 
+  
+
+}
