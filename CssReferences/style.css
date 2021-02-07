@@ -1,0 +1,39 @@
+body{
+	
+}
+
+#login{
+	position: absolute;
+	width: 360px;
+	height: 180px;
+	text-align: center;
+	margin-top: 17%;
+	margin-left: 35%;
+	border: solid;
+	border-radius: 10px;
+	box-shadow: 10px 10px grey;
+
+}
+
+#formlogin{
+
+}
+
+input{
+	width: 200px;
+	padding-left: 5px;
+}
+
+#formlogin label input button{
+	font-family: Arial;
+	padding-top: 50px;
+}
+
+#formlogin{
+	margin: 50px;
+}
+
+#formlogin input button{
+	
+}
+

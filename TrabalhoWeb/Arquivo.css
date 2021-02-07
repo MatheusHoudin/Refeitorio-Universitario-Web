@@ -1,0 +1,50 @@
+#id2{ 
+   Width: 100%; 
+   background-color: #ff0000;
+   height: 80px;
+
+		
+}
+ 
+
+#id2 ul li{
+
+	 float:left;
+	padding: 5px;
+    list-style-type : none;
+    background: #666;
+    width: 100px;
+    margin-top:5px;
+
+}
+
+  
+#id2 ul{
+
+   margin-left: 64%;
+
+}
+
+
+img{
+
+	padding-right: 80px;
+
+
+}
+
+
+
+#id1 {
+   
+   Width: 200px; 
+   background-color: #ff0000;
+   height: 70px;
+   display: inline-block;
+   margin-left: 60%;
+   
+
+
+}
+
+
